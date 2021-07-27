@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abiiinsw
 - 👀 I’m interested in Data Science $ AI 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Web Scraping 
 - 💞️ I’m looking to collaborate on Project for Predicting Stocks 
 - 📫 How to reach me abiiinsw@gmail.com
 
